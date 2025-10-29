@@ -9,9 +9,11 @@ public class Square21 {
             for(int iInner = 1; iInner <= N; iInner++) {
                 System.out.print("*");
             }
-            System.out.println(); 
         }
         
         sc.close();
     }
 }
+
+    
+
